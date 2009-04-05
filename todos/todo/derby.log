@@ -1,0 +1,6 @@
+----------------------------------------------------------------
+2009-04-05 22:09:05.927 GMT:
+ Booting Derby version The Apache Software Foundation - Apache Derby - 10.4.2.0 - (689064): instance a816c00e-0120-7853-e5f2-000000598210
+on database directory /home/joe/projects/lift/todos/todo/lift_example  
+
+Database Class Loader started - derby.database.classpath=''
